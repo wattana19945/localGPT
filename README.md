@@ -1,5 +1,5 @@
 # localGPT
-
+@YOUR-USERNAME/YOUR-REPOSITORY
 This project was inspired by the original [privateGPT](https://github.com/imartinez/privateGPT). Most of the description here is inspired by the original privateGPT.
 
 For detailed overview of the project, Watch this [Youtube Video](https://youtu.be/MlyoObdIHyo).
